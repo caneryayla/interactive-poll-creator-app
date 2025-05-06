@@ -11,7 +11,7 @@ export default function PollResult() {
   if (answeredPolls.length === 0) {
     return (
       <p className="text-muted-foreground">
-        You haven't voted in any polls yet.
+        You haven&apos;t voted in any polls yet.
       </p>
     );
   }

@@ -22,7 +22,7 @@ export default function Home() {
         </h1>
         <p className="text-muted-foreground">
           Create, preview, and answer polls in real time. No sign-up required —
-          it's all local and instant.
+          it&apos;s all local and instant.
         </p>
       </div>
 
